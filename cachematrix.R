@@ -1,4 +1,4 @@
-It is expensive to caculate a matrix inverse. The makeCacheMatrix and cacheSolve functions are used to
+## It is expensive to caculate a matrix inverse. The makeCacheMatrix and cacheSolve functions are used to
 ## cache the matrix inverse. 
 ## an example:
 ## > t <- makeCacheMatrix(matrix(c(1,2,3,4),nrow=2))
